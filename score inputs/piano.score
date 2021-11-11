@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="180" beatspermeasure="4">
+   <instrument instrument="Piano" pedal = "0">
+	<note measure="1" beat="1" duration="1" note="C5"/>
+	<note measure="1" beat="2" duration="1" note="D5"/>
+	<note measure="1" beat="3" duration="1" note="E5"/>
+	<note measure="1" beat="4" duration="1" note="F5"/>
+	<note measure="2" beat="1" duration="1" note="G5"/>
+	<note measure="2" beat="2" duration="1" note="A5"/>
+	<note measure="2" beat="3" duration="1" note="B5"/>
+	<note measure="2" beat="4" duration="1" note="C6"/>
+	<note measure="3" beat="1" duration="1" note="B5"/>
+	<note measure="3" beat="2" duration="1" note="A5"/>
+	<note measure="3" beat="3" duration="1" note="G5"/>
+	<note measure="3" beat="4" duration="1" note="F5"/>
+	<note measure="4" beat="1" duration="1" note="E5"/>
+	<note measure="4" beat="2" duration="1" note="D5"/>
+	<note measure="4" beat="3" duration="1.5" note="C5"/>
+	<note measure="5" beat="1" duration="3" note="C5"/>
+	<note measure="5" beat="1" duration="3" note="E5"/>
+	<note measure="5" beat="1" duration="3" note="G5"/>
+	<note measure="6" beat="1" duration="3" note="C5"/>
+	<note measure="6" beat="1" duration="3" note="F5"/>
+	<note measure="6" beat="1" duration="3" note="A5"/>
+	<note measure="7" beat="1" duration="3" note="C5"/>
+	<note measure="7" beat="1" duration="3" note="E5"/>
+	<note measure="7" beat="1" duration="3" note="G5"/>
+	<note measure="8" beat="1" duration="3" note="B4"/>
+	<note measure="8" beat="1" duration="3" note="F5"/>
+	<note measure="8" beat="1" duration="3" note="G5"/>
+	<note measure="9" beat="1" duration="3" note="C5"/>
+	<note measure="9" beat="1" duration="3" note="E5"/>
+	<note measure="9" beat="1" duration="3" note="G5"/>
+	
+   </instrument>
+</score>
